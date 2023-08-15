@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "DevUtils",
+    "description": "the thing",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Lulonaut/DevUtils",
+    "updateUrl": "",
+    "authorList": [
+      "Lulonaut"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
